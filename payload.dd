@@ -1,0 +1,7 @@
+REM The next six lines open Notepad in Windows and type "Hello World!"
+DELAY 1000
+GUI r
+STRING notepad
+ENTER
+DELAY 1000
+STRING Hello World!
